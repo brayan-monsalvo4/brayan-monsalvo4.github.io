@@ -1,6 +1,6 @@
 {
-    "name": "mapbox_test",
-    "short_name": "mapbox_test",
+    "name": "geolocalizacion",
+    "short_name": "geolocalizacion",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
